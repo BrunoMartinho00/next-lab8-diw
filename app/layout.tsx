@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Footer from '@/components/Footer/Footer'
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -36,6 +37,10 @@ const data = new Date().getFullYear()
             <a href="/caracteristicas">Caracteristicas</a>
             <a href="/tecnologias">Tecnologias</a>
             <a href="/projetos">Projetos</a>
+            <a href="/contador">Contador</a>
+            <a href="/input">Input</a>
+            <a href="/produtos">Produtos</a>
+            <a href="/categorias">Categorias</a>
           </nav>
         </header>
         
@@ -43,7 +48,7 @@ const data = new Date().getFullYear()
           {children}
         </main>
         
-        <footer>DIW - ©{data}</footer>
+        <Footer />
 
       </body>
     </html>

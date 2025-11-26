@@ -1,0 +1,10 @@
+[
+  { "name": "HTML", "image": "html.svg" },
+  { "name": "CSS", "image": "css.svg" },
+  { "name": "JavaScript", "image": "javascript.svg" },
+  { "name": "Tailwind CSS", "image": "tailwind.svg" },
+  { "name": "React.js", "image": "react.svg" },
+  { "name": "Next.js", "image": "nextjs.svg" },
+  { "name": "TypeScript", "image": "typescript.svg" },
+  { "name": "GitHub", "image": "github.svg" }
+]

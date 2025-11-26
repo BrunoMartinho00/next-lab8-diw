@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "DEISIshop - Camiseta Logo",
+    "image": "camiseta.svg",
+    "category": "CSS",
+    "price": 19.99,
+    "description": "Camiseta com logotipo do projeto, confortável e leve.",
+    "active": true
+  },
+  {
+    "id": 2,
+    "title": "DEISIshop - Caneca",
+    "image": "caneca.svg",
+    "category": "HTML",
+    "price": 9.99,
+    "description": "Caneca branca com design minimalista para seu café.",
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "DEISIshop - Caderno",
+    "image": "caderno.svg",
+    "category": "JavaScript",
+    "price": 6.5,
+    "description": "Caderno para anotações com capa temática.",
+    "active": true
+  },
+  {
+    "id": 4,
+    "title": "DEISIshop - Mochila",
+    "image": "mochila.svg",
+    "category": "Tailwind CSS",
+    "price": 39.9,
+    "description": "Mochila resistente e confortável para o dia a dia.",
+    "active": true
+  },
+  {
+    "id": 5,
+    "title": "DEISIshop - Saco Tote",
+    "image": "tote.svg",
+    "category": "React.js",
+    "price": 7.5,
+    "description": "Saco tote em algodão com estampa do projeto.",
+    "active": true
+  },
+  {
+    "id": 6,
+    "title": "DEISIshop - Sticker Pack",
+    "image": "stickers.svg",
+    "category": "Next.js",
+    "price": 3.99,
+    "description": "Pack com vários stickers para personalizar seus equipamentos.",
+    "active": true
+  },
+  {
+    "id": 7,
+    "title": "DEISIshop - Bloco de notas",
+    "image": "bloco.svg",
+    "category": "TypeScript",
+    "price": 5.49,
+    "description": "Bloco de notas A5 com capa ilustrada.",
+    "active": true
+  },
+  {
+    "id": 8,
+    "title": "DEISIshop - Porta-chaves",
+    "image": "keychain.svg",
+    "category": "GitHub",
+    "price": 4.99,
+    "description": "Porta-chaves de metal com o logotipo.",
+    "active": true
+  }
+]
