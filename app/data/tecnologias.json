@@ -2,6 +2,68 @@
   {
     "title": "HTML",
     "image": "html.svg",
+    "description": "Linguagem de marcação utilizada para estruturar páginas web.",
+    "rating": 5
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Folhas de estilo responsáveis pelo aspeto e layout das páginas.",
+    "rating": 5
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwind.svg",
+    "description": "Framework utilitário que acelera a construção de interfaces com classes utilitárias.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação que adiciona interatividade ao frontend.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Superset do JavaScript com tipagem estática opcional para código mais seguro.",
+    "rating": 4
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato leve e legível para troca de dados entre cliente e servidor.",
+    "rating": 4
+  },
+  {
+    "title": "API RESTful",
+    "image": "api.svg",
+    "description": "Arquitetura de comunicação cliente-servidor através de endpoints HTTP.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma de hospedagem de código que facilita colaboração e CI/CD.",
+    "rating": 5
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript para construir interfaces de utilizador reativas.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework que expande o React com renderização híbrida e ótimas práticas.",
+    "rating": 5
+  }
+]
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
     "description": "Linguagem de marcação usada para estruturar conteúdo na web.",
     "rating": 5
   },

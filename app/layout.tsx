@@ -35,6 +35,7 @@ const data = new Date().getFullYear()
             <a href="/sobre">Sobre</a>
             <a href="/caracteristicas">Caracteristicas</a>
             <a href="/tecnologias">Tecnologias</a>
+            <a href="/projetos">Projetos</a>
           </nav>
         </header>
         

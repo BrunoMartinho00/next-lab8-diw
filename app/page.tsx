@@ -1,6 +1,6 @@
 import MagiaDoJSX from '@/components/MagiaDoJSX/MagiaDoJSX'
 
-export default function Home() {
+export default function HomePage() {
   return (
     <div>
       <h2>Interfaces Modernos</h2>
